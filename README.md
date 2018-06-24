@@ -1,6 +1,6 @@
 Grundlagen der Informatik II, SS 2018
 
-Titel:
+Titel:  
     Cocktailmischmaschine
 
 Gruppe:  
@@ -8,10 +8,10 @@ Gruppe:
     Nicolas Buhr 4444295  
     Marcel Dinse 4440877  
 
-Datum:
+Datum:  
     24.06.18
 
-Beschreibung:
+Beschreibung:  
     Verschiedene Getränke werden mit Hilfe von Pumpen aus ihren Behältern in ein Glas
     befördert. Hierzu können am Computer entweder bestehende Rezepte ausgewählt oder die
     Mengenangaben manuell eingegeben werden. Die geforderten Mengen werden an den Arduino
