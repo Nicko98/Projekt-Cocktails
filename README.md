@@ -3,8 +3,8 @@ Grundlagen der Informatik II, SS 2018
 Titel:
     Cocktailmischmaschine
 
-Gruppe:
-    Maco Baier   4444363 
+Gruppe:  
+    Maco Baier   4444363  
     Nicolas Buhr 4444295  
     Marcel Dinse 4440877  
 
