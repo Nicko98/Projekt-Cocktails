@@ -4,9 +4,9 @@ Titel:
     Cocktailmischmaschine
 
 Gruppe:
-    Maco Baier   4444363
-    Nicolas Buhr 4444295
-    Marcel Dinse 4440877
+    Maco Baier   4444363 
+    Nicolas Buhr 4444295  
+    Marcel Dinse 4440877  
 
 Datum:
     24.06.18
